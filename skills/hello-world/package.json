@@ -1,0 +1,9 @@
+{
+  "name": "@my-skills/hello-world",
+  "version": "0.1.0",
+  "description": "Minimal example skill — demonstrates the skill format",
+  "bin": {
+    "hello-world": "../../bin/install.js"
+  },
+  "license": "ISC"
+}

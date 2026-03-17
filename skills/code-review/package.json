@@ -1,0 +1,9 @@
+{
+  "name": "@my-skills/code-review",
+  "version": "0.1.0",
+  "description": "Structured code review with security, performance, and maintainability checklists",
+  "bin": {
+    "code-review": "../../bin/install.js"
+  },
+  "license": "ISC"
+}

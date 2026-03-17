@@ -1,10 +1,13 @@
 {
   "name": "my-skills",
-  "version": "0.0.1",
-  "description": "agent skill bundles",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description": "Installable AI agent skills for Claude Code, Cursor, and OpenCode",
+  "main": "lib/install-utils.js",
+  "bin": {
+    "my-skills": "./bin/install.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node bin/install.js list"
   },
   "repository": {
     "type": "git",

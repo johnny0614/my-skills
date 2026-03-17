@@ -1,0 +1,9 @@
+{
+  "name": "@my-skills/git-helpers",
+  "version": "0.1.0",
+  "description": "Interactive conventional commits, branch cleanup, and PR preparation",
+  "bin": {
+    "git-helpers": "../../bin/install.js"
+  },
+  "license": "ISC"
+}
