@@ -1,0 +1,19 @@
+{
+  "name": "my-skills",
+  "version": "0.0.1",
+  "description": "agent skill bundles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnny0614/my-skills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnny0614/my-skills/issues"
+  },
+  "homepage": "https://github.com/johnny0614/my-skills#readme"
+}
